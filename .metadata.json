@@ -1,0 +1,10 @@
+[
+  {
+    "package": "vfinputs",
+    "oncran": true
+  },
+  {
+    "package": "visxhclust",
+    "oncran": true
+  }
+]
