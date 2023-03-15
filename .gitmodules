@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "vfinputs"]
-	path = vfinputs
-	url = https://github.com/rhenkin/vfinputs
-	shallow = true
-	registered = true
 [submodule "visxhclust"]
 	path = visxhclust
 	url = https://github.com/rhenkin/visxhclust
+	shallow = true
+	registered = true
+[submodule "vfinputs"]
+	path = vfinputs
+	url = https://github.com/rhenkin/vfinputs
 	shallow = true
 	registered = true
