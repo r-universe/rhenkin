@@ -1,9 +1,9 @@
 [
   {
-    "package": "visxhclust"
-  },
-  {
     "package": "vfinputs",
     "oncran": true
+  },
+  {
+    "package": "visxhclust"
   }
 ]
